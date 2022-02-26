@@ -1,5 +1,5 @@
 # Deciphering-Program
-In this code I solving few exercises on C++ related to cyphering/decyphering code. Descriptions of exercises provided below.
+C++ Console Application in which I solve few exercises related with cyphering and decyphering text.
 
 
 # Part 1 - Caesar cipher:
