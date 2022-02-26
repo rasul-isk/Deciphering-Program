@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Study\Advanced Prog\Lab6\Source.cpp(27,30): warning C4018: '<': signed/unsigned mismatch
+D:\Study\Advanced Prog\Lab6\Source.cpp(45,28): warning C4018: '<': signed/unsigned mismatch
+D:\Study\Advanced Prog\Lab6\Source.cpp(95,28): warning C4018: '<': signed/unsigned mismatch
+D:\Study\Advanced Prog\Lab6\Source.cpp(122,28): warning C4018: '<': signed/unsigned mismatch
+D:\Study\Advanced Prog\Lab6\Source.cpp(139,42): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Study\Advanced Prog\Lab6\Source.cpp(265,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lab6.vcxproj -> D:\Study\Advanced Prog\Lab6\Debug\Lab6.exe
